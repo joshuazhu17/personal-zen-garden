@@ -1,0 +1,24 @@
+{
+  "name": "personal-zen-garden",
+  "version": "1.0.0",
+  "description": "My own attempt at creating a CSS zen garden",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuazhu17/personal-zen-garden.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuazhu17/personal-zen-garden/issues"
+  },
+  "homepage": "https://github.com/joshuazhu17/personal-zen-garden#readme",
+  "devDependencies": {
+    "sass": "^1.26.7"
+  }
+}
